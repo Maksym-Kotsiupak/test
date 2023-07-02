@@ -20,3 +20,7 @@ margin: 0;
 .logo-i{
     fill: #77AC63;
 }
+.logo{
+    stroke: #77AC63;
+    fill: #fff;
+}
