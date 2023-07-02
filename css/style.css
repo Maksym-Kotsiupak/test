@@ -18,9 +18,31 @@ margin: 0;
     margin-right: 10px;
 }
 .logo-i{
-    fill: #77AC63;
+    fill: #141414;
+    /* padding: 8px; */
 }
 .logo{
     stroke: #77AC63;
     fill: #fff;
+}
+.conteiner-soc{
+    border: 1px solid #141414;
+    display: flex;
+    border-radius: 10px;
+    width: 44px;
+    height: 44px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.logo-soc{
+    fill: #141414;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 8px;
 }
